@@ -1,4 +1,4 @@
-## Hi, I'm Mahir
+## Welcome 👋
 
 💻 Final year Computer Science student.<br>
 🧩 Infatuated with the idea of coding late at night<br>
