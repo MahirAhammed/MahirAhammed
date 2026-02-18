@@ -1,5 +1,6 @@
 ## Welcome 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=5006&pause=1000&color=F6F7E3&width=900&height=90&lines=Sure%2C+here+is+a+clean%2C+professional+profile+section+for+Github+%22I+am+a+Co;I%E2%80%99m+a+Computer+Science+graduate+seeking+to+bridge+the+gap+between+theory+and+real-world+systems.)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Mahir Ahammed](https://www.linkedin.com/in/mahir-ahammed-7b69b5222/)) <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahir.ahammed246@gmail.com)mahir.ahammed246@gmail.com
