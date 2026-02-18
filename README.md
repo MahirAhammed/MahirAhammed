@@ -1,9 +1,5 @@
 ## Welcome 👋
 
-💻 Final year Computer Science student.<br>
-🧩 Infatuated with the idea of coding late at night<br>
-💡 Number of unfinished projects same as number of items in wishlist.<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Mahir Ahammed](https://www.linkedin.com/in/mahir-ahammed-7b69b5222/)) <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahir.ahammed246@gmail.com)mahir.ahammed246@gmail.com
