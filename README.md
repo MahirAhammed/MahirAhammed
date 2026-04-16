@@ -1,8 +1,11 @@
 # Hi 👋, I'm Mahir
 
 ### 👩‍💻 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=5006&pause=1000&color=F6F7E3&width=950&height=40&lines=Sure%2C+here+is+a+clean%2C+professional+profile+section+for+Github+%22I+am+a+Co;I%E2%80%99m+a+Computer+Science+graduate+who+likes+turning+theory+into+workable+systems.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F7F7F7&width=1000&lines=Certainly!+Here+is+a+professional+description+for+your+GitHub+profile%3A+%22I+am+a+passionate...%22;I'm+a+CS+graduate+who+likes+turning+theory+into+workable+systems.)](https://git.io/typing-svg)
+
 - ⚡ **Fun fact:** I do spend an extra two minutes to reject cookies.
+
 
 ### 🌐 Socials:
 
